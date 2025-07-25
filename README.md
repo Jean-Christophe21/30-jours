@@ -1,1 +1,2 @@
-Ce dépôt 30 jours est destinés à receuillir tous les travaux réalisés durant les 30 jours du challenge chanque challenge étant dans le dossier de son jour.
+Ce dépôt 30 jours est destinés à receuillir tous les travaux réalisés durant les 30 jours du challenge de python Togo.
+Chaque challenge étant dans le dossier de son jour avec tous les fichiers qui y sont associés.
