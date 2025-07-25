@@ -2,7 +2,7 @@
 
 # Exercice niveau 1
 
-# 1. Vérifiez la version Python que vous utilisez
+# 1. Verifiez la version Python que vous utilisez
 import sys
 print("Version de Python :", sys.version)
 
