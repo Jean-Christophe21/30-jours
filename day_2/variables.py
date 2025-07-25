@@ -1,7 +1,3 @@
-# -*- coding: latin-1 -*-
-
-#Jour 2: 30 Days of Python Programming
-
 # Exercices: niveau 1
 
 first_name = 'John'
