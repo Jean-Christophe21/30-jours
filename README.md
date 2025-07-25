@@ -1,1 +1,1 @@
-# 30 jours
+Ce dépôt 30 jours est destinés à receuillir tous les travaux réalisés durant les 30 jours du challenge.
